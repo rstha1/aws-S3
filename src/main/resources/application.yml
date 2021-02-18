@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://renubucket.s3.us-east-2.amazonaws.com
+  accessKey: 00000
+  secretKey: 00000
+  bucketName: 0000
